@@ -1,0 +1,3 @@
+[submodule "compearth"]
+	path = compearth
+	url = git@github.com:carltape/compearth.git
