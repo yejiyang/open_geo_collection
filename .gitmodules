@@ -1,3 +1,6 @@
 [submodule "compearth"]
 	path = compearth
 	url = git@github.com:carltape/compearth.git
+[submodule "ttt"]
+	path = ttt
+	url = git@github.com:yejiyang/ttt.git
