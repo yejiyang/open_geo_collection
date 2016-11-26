@@ -15,3 +15,19 @@ git submodule add git@github.com:jrleeman/rsfmodel.git
 
 git submodule add git@github.com:usgs/slab2.git
 
+git submodule add git@github.com:fatiando/fatiando.git
+
+git submodule add git@github.com:joferkington/mplstereonet.git
+
+git submodule add git@github.com:ActiveTectonicsAndes/ATA.git
+ 
+git submodule add git@github.com:jaolive/SiStER.git
+
+git submodule add git@github.com:seg/tutorials-2014.git 
+
+git submodule add git@github.com:seg/tutorials-2015.git 
+
+git submodule add git@github.com:seg/tutorials-2016.git 
+
+git submodule add git@github.com:cossatot/halfspace_user_guide.git
+git submodule add git@github.com:cossatot/halfspace.git

@@ -19,3 +19,30 @@
 [submodule "slab2"]
 	path = slab2
 	url = git@github.com:usgs/slab2.git
+[submodule "fatiando"]
+	path = fatiando
+	url = git@github.com:fatiando/fatiando.git
+[submodule "mplstereonet"]
+	path = mplstereonet
+	url = git@github.com:joferkington/mplstereonet.git
+[submodule "ATA"]
+	path = ATA
+	url = git@github.com:ActiveTectonicsAndes/ATA.git
+[submodule "SiStER"]
+	path = SiStER
+	url = git@github.com:jaolive/SiStER.git
+[submodule "seg_tutorials/tutorials-2016"]
+	path = seg_tutorials/tutorials-2016
+	url = git@github.com:seg/tutorials-2016.git
+[submodule "seg_tutorials/tutorials-2015"]
+	path = seg_tutorials/tutorials-2015
+	url = git@github.com:seg/tutorials-2015.git
+[submodule "seg_tutorials/tutorials-2014"]
+	path = seg_tutorials/tutorials-2014
+	url = git@github.com:seg/tutorials-2014.git
+[submodule "halfspace"]
+	path = halfspace
+	url = git@github.com:cossatot/halfspace.git
+[submodule "halfspace_user_guide"]
+	path = halfspace_user_guide
+	url = git@github.com:cossatot/halfspace_user_guide.git
