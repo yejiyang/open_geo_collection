@@ -1,3 +1,21 @@
 [submodule "compearth"]
 	path = compearth
 	url = git@github.com:carltape/compearth.git
+[submodule "okada_wrapper"]
+	path = okada_wrapper
+	url = git@github.com:tbenthompson/okada_wrapper.git
+[submodule "tectonicplates"]
+	path = tectonicplates
+	url = git@github.com:fraxen/tectonicplates.git
+[submodule "wenchuan_topo_stress"]
+	path = wenchuan_topo_stress
+	url = git@github.com:cossatot/wenchuan_topo_stress.git
+[submodule "HimaTibetMap"]
+	path = HimaTibetMap
+	url = git@github.com:HimaTibetMap/HimaTibetMap.git
+[submodule "rsfmodel"]
+	path = rsfmodel
+	url = git@github.com:jrleeman/rsfmodel.git
+[submodule "slab2"]
+	path = slab2
+	url = git@github.com:usgs/slab2.git
