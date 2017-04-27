@@ -30,4 +30,7 @@ git submodule add git@github.com:seg/tutorials-2015.git
 git submodule add git@github.com:seg/tutorials-2016.git 
 
 git submodule add git@github.com:cossatot/halfspace_user_guide.git
+
 git submodule add git@github.com:cossatot/halfspace.git
+
+git submodule add git@github.com:brendanjmeade/Blocks.git

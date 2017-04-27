@@ -46,3 +46,6 @@
 [submodule "halfspace_user_guide"]
 	path = halfspace_user_guide
 	url = git@github.com:cossatot/halfspace_user_guide.git
+[submodule "Blocks"]
+	path = Blocks
+	url = git@github.com:brendanjmeade/Blocks.git
